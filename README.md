@@ -36,6 +36,7 @@ To set up the project locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 >git clone https://github.com/LiliiaVol/Nothing-landing.git
+
 >cd Nothing-landing
 ### 2️⃣ Install Dependencies
 Ensure you have Node.js installed, then run:
